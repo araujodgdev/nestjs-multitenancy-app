@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1718326321941,
+      "tag": "0000_cloudy_phantom_reporter",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1718328264798,
+      "tag": "0001_blue_kronos",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1718328294020,
+      "tag": "0002_strong_lady_ursula",
+      "breakpoints": true
+    }
+  ]
+}
